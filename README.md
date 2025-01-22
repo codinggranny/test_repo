@@ -14,23 +14,27 @@ Usage guide:
   - run python3 test_file.py
 
 Configuration:
-
+- 
   - Config.file
       - username
       - password
 
 Contributing guidelines:
-
+ -
+ 
 Credits:
+- 
   - Calum Grant
   - John Doe
   - Jane Smith
 
 License:
+- 
   - copyright
   - trademarks
 
 FAQs:
+- 
 
 Contacts:
   - devs
